@@ -33,7 +33,7 @@ return {
                     {name = "path"},
                     {name = "luasnip"},
                     {name = "buffer"},
-                    {name = "cmdline"},
+                    -- {name = "cmdline"},
                     -- {name = "spell"},
                     -- {name = "calc"},
                     -- {name = "copilot"}, -- INFO: uncomment this for AI completion
