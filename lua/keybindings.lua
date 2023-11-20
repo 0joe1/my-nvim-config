@@ -32,4 +32,4 @@ map("n","Q",":wa!<CR>:qa!<CR>")
 
 map({"v", "n", "i"}, "<F2>", "<cmd>BufferLineCyclePrev<CR>")
 map({"v", "n", "i"}, "<F3>", "<cmd>BufferLineCycleNext<CR>")
-map({"v","n","i","t"},"<F4>","<cmd>wa<CR>")
+map({"v","n","i","t"},"<F4>","<ESC><cmd>wa<CR>")
